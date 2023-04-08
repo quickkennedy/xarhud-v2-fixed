@@ -1,0 +1,1 @@
+rename the "_sound" folder to "sound" to enable hitsounds and custom ui sounds.
